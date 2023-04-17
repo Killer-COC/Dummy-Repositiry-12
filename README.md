@@ -1,4 +1,4 @@
 # credentials
-
-username :- email with our r
+||
+username :- email with our r ||
 password:- (same).
